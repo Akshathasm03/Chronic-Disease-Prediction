@@ -1,11 +1,7 @@
-# Chronic-Disease-Prediction
-This project aims to predict chronic diseases like Heart Disease, Diabetes, and Parkinson’s Disease using machine learning models.
+# multiple-disease-prediction-streamlit-app
+This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
 
-![Screenshot 2025-03-14 115637](https://github.com/user-attachments/assets/339966b2-8294-435d-879d-b3eea66cc2c4)
-![Screenshot 2025-03-14 115553](https://github.com/user-attachments/assets/3a8b523d-cdc5-4b93-a655-e7cba6f84cd8)
+app.py is the streamlit app code.
+run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
 
-pip install streamlit
-pip install streamlit-options-menu
-pip install -r requirements.txt
-cd multiple-disease-prediction-streamlit-main
-streamlit run app.py
+You may need to install additional libraries for running the jupyter notebooks.
